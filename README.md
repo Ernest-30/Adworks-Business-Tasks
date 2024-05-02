@@ -21,7 +21,7 @@ This data analysis project focuses on analyzing sales and customer data from Adv
 - Segmenting the customers based on Last purchase date
 
 ## Analysis
-The analysis was done on SQL Server. Click [Here]() to view the complete analysis query
+The analysis was done on SQL Server. Click [Here](https://github.com/Ernest-30/Adworks-Business-Tasks/blob/main/Adventure_works_task_query.sql) to view the complete analysis query
 
 ## Business Task
 
