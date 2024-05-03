@@ -169,3 +169,24 @@ Middle income (40001 - 80000 per annum) earners generated the highest profit.
 ## Dashboard
 
 I created 4 interactive dashboards to visualize various KPIs, gain more insights and compare relationships between different varibles.
+
+### 1. Overview Dashboard
+
+![image](https://github.com/Ernest-30/Adworks-Business-Tasks/assets/123366282/10bebbcf-2448-4222-9e42-8896e20c0907)
+
+
+#### 2. Sales Dashboard
+
+![image](https://github.com/Ernest-30/Adworks-Business-Tasks/assets/123366282/ebc7c9b4-2395-4cb9-abd8-350425dcea26)
+
+
+### 3. Product Performance Dashboard
+
+![image](https://github.com/Ernest-30/Adworks-Business-Tasks/assets/123366282/6b6fbe81-f81e-45a6-8dd1-a715895f2d38)
+
+
+### 4. Customer Demographics Dashboard
+
+![image](https://github.com/Ernest-30/Adworks-Business-Tasks/assets/123366282/01d99134-e7bf-4b7c-9d99-ed2b20abd978)
+
+
